@@ -1,0 +1,1 @@
+include "customer-rest-api", "customer-rest-core", "customer-rest-ear", "customer-rest-war", "customer-rest-ejb", "customer-rest-ejb-client"

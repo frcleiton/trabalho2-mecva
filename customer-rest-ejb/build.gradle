@@ -1,0 +1,4 @@
+
+dependencies {
+	compile project(':customer-rest-ejb-client')
+}
